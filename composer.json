@@ -1,7 +1,7 @@
 {
-  "name": "klauspeng/Utility",
+  "name": "klauspeng/utility",
   "type": "library",
-  "description": "my Utility",
+  "description": "my utility",
   "license": "Apache-2.0",
   "authors": [
     {
